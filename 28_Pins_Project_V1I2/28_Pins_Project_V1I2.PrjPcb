@@ -197,6 +197,10 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Free Documents\BOM\28Pins BOM Purchasing-28_Pins_Project_V1I2.xls
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for 28_Pins_Project_V1I2\Design Rule Check - 28_Pins_Project_V1I2.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=NotFitted
 Value=NF
@@ -324,7 +328,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OrCADPS_17.2
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
