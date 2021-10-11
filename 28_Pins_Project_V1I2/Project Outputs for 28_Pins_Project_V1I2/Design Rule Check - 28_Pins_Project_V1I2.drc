@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\user\Documents\LTDYOB\28_Pins_Project_V1I2\28_Pins_Project_V1I2.PcbDoc
 Date     : 10/10/2021
-Time     : 12:06:03
+Time     : 21:28:56
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -52,11 +52,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (15.24mm,50.8mm) on Top Overlay And Pad J6-10(18.796mm,50.8mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.002mm < 0.1mm) Between Pad SW2-2(59.425mm,26.1mm) on Multi-Layer And Track (59.5mm,25.05mm)(63.1mm,25.05mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.002mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Pad U6-4(7.05mm,27.65mm) on L1 And Track (4.222mm,28.184mm)(7.778mm,28.184mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Pad U6-5(5.15mm,27.65mm) on L1 And Track (4.222mm,28.184mm)(7.778mm,28.184mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
 Rule Violations :0
@@ -92,6 +88,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:04
